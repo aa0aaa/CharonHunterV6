@@ -9,6 +9,8 @@ To Run These Tool in Termux
 
 - pkg install git -y
 
+- git clone https://github.com/aa0aaa/CharonHunterV6
+
 - pip install colorama
 
 - pip install user_agent
