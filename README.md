@@ -1,9 +1,9 @@
 # CharonHunterV6
 To Run These Tool in Termux
 
-- pkg update
+- apt update
 
-- pkg upgrade -y
+- apt upgrade -y
 
 - pkg install python -y
 
